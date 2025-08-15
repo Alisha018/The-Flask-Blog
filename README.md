@@ -1,4 +1,4 @@
-# The Flask Journal
+# The Flask Blog
 
 
 
