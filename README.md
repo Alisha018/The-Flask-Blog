@@ -88,10 +88,7 @@ The application will be available at `http://localhost:5000`
 
 
 
-## Author
 
-**Sourav Upadhyay**
-- GitHub: [@SouravUpadhyay7](https://github.com/SouravUpadhyay7)
 
 ## Acknowledgments
 
