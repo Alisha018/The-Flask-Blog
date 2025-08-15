@@ -196,7 +196,6 @@ __pycache__/
 *.pyc
 env/
 venv/
-myenv/
 *.sqlite3
 .DS_Store
 *.log
